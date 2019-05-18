@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-hooks/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-hooks/static/js/main.5c66be79.chunk.js",
+    "main.js.map": "/react-hooks/static/js/main.5c66be79.chunk.js.map",
+    "runtime~main.js": "/react-hooks/static/js/runtime~main.d8882185.js",
+    "runtime~main.js.map": "/react-hooks/static/js/runtime~main.d8882185.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/react-hooks/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.006f0350.chunk.js": "/react-hooks/static/js/2.006f0350.chunk.js",
+    "static/js/2.006f0350.chunk.js.map": "/react-hooks/static/js/2.006f0350.chunk.js.map",
+    "index.html": "/react-hooks/index.html",
+    "precache-manifest.799ec1fcee9222b82f267b79d5b47b7d.js": "/react-hooks/precache-manifest.799ec1fcee9222b82f267b79d5b47b7d.js",
+    "service-worker.js": "/react-hooks/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/react-hooks/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/react-hooks/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-hooks/static/media/logo.5d5d9eef.svg"
+  }
+}
